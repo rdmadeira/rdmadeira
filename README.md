@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdmadeira
 - 👀 I’m interested in Web Developer's world
-- 🌱 I’m currently learning JavaScript, GitHub, CSS, Templates, etc. 
+- 🌱 I’m currently learning JavaScript, Git, GitHub, CSS, Templates, etc. 
 - 💞️ I’m looking to collaborate on basic proyects and 
 - 📫 How to reach me ... https://www.linkedin.com/in/rodrigo-madeira-calazans-nascimento-288a71231/
 
